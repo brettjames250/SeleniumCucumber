@@ -24,7 +24,7 @@ target/cucumber-reports/index.html
 - Utilise Cucumber Datatables to parameterise tests - e.g purchase different products, pay by both methods
 - Implementing Allure reports - useful as test volume and variety increases.
 - Serenity BDD - detailed documentation of user stories / capabilities and features
-- Full verifification of each order - from costing to purchase
+- Full verification of each order - from costing to purchase
 
 
 ## Further Scenarios
