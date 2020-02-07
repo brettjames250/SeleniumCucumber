@@ -17,8 +17,11 @@ Upon test completion, basic Cucumber reports can be accessed in the target folde
 ```
 target/cucumber-reports/index.html
 ```
+![Cucumber Report](cukereport.png)
+
 
 ## Framework Development
+- Utilise Cucumber Datatables to parameterise tests - e.g purchase different products, pay by both methods
 - Implementing Allure reports - useful as test volume and variety increases.
 - Serenity BDD - detailed documentation of user stories / capabilities and features
 - Full verifification of each order - from costing to purchase
@@ -27,4 +30,5 @@ target/cucumber-reports/index.html
 ## Further Scenarios
 - attempting login with invalid credentials
 - costing multiple items, and removing from the basket
-- 
+- test product page filters
+- search bar testing
