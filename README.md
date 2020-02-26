@@ -1,4 +1,4 @@
-# brettjames-rbs-webautomation
+# brettjames-webautomation
 
 ## About
 This test automation project contains BDD scenarios that test the user interface for the test website. The framework is based on Selenium Webdriver, CucumberJVM and utilises the Page Object Model.
